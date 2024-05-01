@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arfaz Ahamed</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Arfaz31&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Arfaz31" /> </p>
+### Hi there 👋, I'm Arfaz
+#### Web Developer
+![Web Developer](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/439426981_392298993630126_5159774831867900404_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHmwIHOZZAdjcUv7L-OEpTGoNUSgVuND5Kg1RKBW40PkgiQVMxrwjA2VV5Z2Yb9F38af-o21AgAxl7FzLQEQubY&_nc_ohc=-UFTwJJdKf0Q7kNvgEwBmWf&_nc_ht=scontent.fdac13-1.fna&oh=00_AfCHfJD6qP76EEE8hNtEVX75Y3mzu8ReTxxnEzzv3pe-5Q&oe=663872BB)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Arfaz31&theme=" alt="https://github.com/Arfaz31" /></a> </p>
-
-- 👯 I’m looking to collaborate on **MERN stack project**
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **React**
-- 📫 How to reach me **arfazahamed1@gmail.com**
-- 👨‍💻 All of my projects are available at **https://my-portfolio-9de4c.web.app/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ZnA_Qo4xhx-eqFXz91dvsxuhJaInv2X_/view?usp=drive_link**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arfaz-ahamed-bb82b5280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/Arfaz31" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -36,19 +29,22 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Arfaz31&layout=compact&theme=" alt=https://github.com/Arfaz31 />
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning TypeScript 
+- 👯 I’m looking to collaborate on MERN stack project 
+- 💬 Ask me about React 
+- 📫 How to reach me: arfazahamed1@gmail.com 
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Arfaz31&show_icons=true&locale=en&theme=" alt="https://github.com/Arfaz31" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Arfaz31&theme=" alt="https://github.com/Arfaz31" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/https://github.com/Arfaz31">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/Arfaz31&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/Arfaz31&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/Arfaz31&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/Arfaz31&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/Arfaz31&theme=2077" height="180em" />
-</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arfaz31)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaz31)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfaz31&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Arfaz31/contributions?format=svg&private=false)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Arfaz31)  
+
