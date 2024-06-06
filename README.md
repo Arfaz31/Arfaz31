@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/439426981_392298993630126_5159774831867900404_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-zHxtkSYZVwQ7kNvgHNy4dg&_nc_ht=scontent.fdac13-1.fna&oh=00_AYDixlZ6E8tMtvQIL42Hp2q6To0_dCTMJyB0kmlT5e-Ilg&oe=66495DFB)
+<p align="center"> <img src="/arfaz.png" alt="Arfaz31" /> </p>
 
 <h1 align="center">Hi 👋, I'm Arfaz</h1>
 <h3 align="center">Web Developer</h3>
