@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://drive.google.com/file/d/1BNjxqNP_1gDuwAfomB61uwD7BiDhLfZL/view?usp=sharing" alt="Arfaz31" /> </p>
+<p align="center"> <img src="" alt="Arfaz31" /> </p>
 
 <h1 align="center">Hi 👋, I'm Arfaz</h1>
 
