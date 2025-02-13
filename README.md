@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arfaz31&theme=" alt="Arfaz31" /></a> </p>
 
-- 🌱 I’m currently learning **Postgresql & Prisma**
+- 🌱 I’m currently learning **GraphQL**
 - 💬 Ask me about **anything related to MERN stack and related technologies**
 - 📫 How to reach me **arfazahamed1@gamil.com**
 - 👨‍💻 All of my projects are available at **https://my-portfolio-9de4c.web.app/**
