@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **GraphQL**
 - 💬 Ask me about **anything related to MERN stack and related technologies**
 - 📫 How to reach me **arfazahamed1@gamil.com**
-- 👨‍💻 All of my projects are available at **https://my-portfolio-9de4c.web.app/**
+- 👨‍💻 All of my projects are available at **https://arfazahamed.vercel.app/**
 
 <div> <a href="https://twitter.com/https://twitter.com/Arfaz_Ahamed21" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arfaz-ahamed-bb82b5280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
