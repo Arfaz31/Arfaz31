@@ -118,7 +118,7 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arfaz31&theme=onedark&no-frame=true&no-bg=true)
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arfaz31&theme=" alt="Arfaz31" /></a> </p>
   
   <table>
     <tr>
