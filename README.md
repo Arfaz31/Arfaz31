@@ -106,7 +106,7 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 ## 📝 Latest Blog Posts
 
 
-1. [Mastering Axios: Why It's the Go-To HTTP Client for Web Developers](https://dev.to/hasanali112/optimizing-react-performance)
+1. [Mastering Axios: Why It's the Go-To HTTP Client for Web Developers](https://arfazahamed.vercel.app/blog/678fab056abbe9bf6887d0ae)
 2. [🌐 What is CORS, and Why Does it Matter for Cross-Origin Requests? 🌐](https://arfazahamed.vercel.app/blog/678faaf16abbe9bf6887d0ac)
 3. [💡 Harnessing the Power of WebSockets for Real-Time Communication](https://arfazahamed.vercel.app/blog/678faaca6abbe9bf6887d0aa)
 
