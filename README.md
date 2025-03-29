@@ -5,21 +5,21 @@
 
 As a dedicated Full Stack Web Developer, I specialize in designing and developing high-quality, scalable web applications. With expertise in React, Next.js, JavaScript, TypeScript, Node.js, Express, MongoDB, and Mongoose, I am passionate about building seamless, responsive user interfaces that exceed the expectations of modern web development.
 
-Technical Proficiencies
-▪️Programming Languages: JavaScript, TypeScript
-▪️Frameworks/Libraries: React, Next.js, Node.js, Express, GraphQL
-▪️State Management: Redux, TanStack Query
-▪️Databases: MongoDB, PostgreSQL
-▪️ORM/ODM: Mongoose, Prisma
-▪️UI/UX Tools: TailwindCSS, Shadcn UI, Ant Design, Framer Motion
-▪️Cloud & Payment Solutions: Firebase, Aamarpay, SSLCommerz
-▪️Development Tools: Git, GitHub, Vercel, Postman, Chrome DevTools
+Technical Proficiencies <br/>
+▪️Programming Languages: JavaScript, TypeScript <br/>
+▪️Frameworks/Libraries: React, Next.js, Node.js, Express, GraphQL <br/>
+▪️State Management: Redux, TanStack Query <br/>
+▪️Databases: MongoDB, PostgreSQL <br/>
+▪️ORM/ODM: Mongoose, Prisma <br/>
+▪️UI/UX Tools: TailwindCSS, Shadcn UI, Ant Design, Framer Motion <br/>
+▪️Cloud & Payment Solutions: Firebase, Aamarpay, SSLCommerz <br/>
+▪️Development Tools: Git, GitHub, Vercel, Postman, Chrome DevTools <br/>
 
-Core Competencies
-▪️API Development & Integration
-▪️Agile Methodologies & Collaborative Workflow
-▪️Problem-Solving, Debugging, and Code Optimization
-▪️Strong Communication & Team Collaboration
+Core Competencies <br/>
+▪️API Development & Integration <br/>
+▪️Agile Methodologies & Collaborative Workflow <br/>
+▪️Problem-Solving, Debugging, and Code Optimization <br/>
+▪️Strong Communication & Team Collaboration <br/>
 
 I pride myself on my persistence and growth mindset, which drive me to tackle challenges head-on, whether it’s debugging complex issues or mastering new technologies. I believe in fostering a positive and collaborative work environment, where innovation and creativity can flourish.
 
