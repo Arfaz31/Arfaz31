@@ -91,13 +91,14 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 
 ## 🚧 Current Projects
 
-### DEV HUB - Developer Collaboration Platform
-**Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js) + TypeScript  
+### PRIME BAZAR - Multi-Vendor E-commerce Platform
+**Tech Stack**:  PostgreSQL, Prisma, GraphQL, Express, Next.js, TypeScript
 **Features**:
-- Real-time code collaboration
-- Project management tools
-- Developer profile system
-- API integration playground
+- Multi-Vendor Support – Sellers can register, manage their stores, and list products independently.
+- GraphQL API – Efficient data fetching with Prisma ORM for seamless interactions.
+- Dynamic Product Management – Categories, filtering, sorting, and search functionality.
+- Secure Authentication – Role-based access for admins, vendors, and customers.
+- Optimized Performance – SSR and ISR using Next.js for fast page loads and SEO benefits.
 
 ### [More Projects Coming Soon...]
 
