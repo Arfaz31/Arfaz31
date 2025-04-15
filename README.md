@@ -42,14 +42,14 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c" alt="Programming Languages" />
+<!--   cpp,python -->
 </p>
 
 - **JavaScript** (ES6+)  
 - **TypeScript**
 - **C**
-- **C++**
-- **Python**
+
 
 ### **Frontend Development**
 <p align="center">
@@ -65,7 +65,7 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 
 ### **Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql,prisma,firebase,aws,vercel" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql,prisma,firebase,vercel" alt="Backend Skills" />
 </p>
 
 - **Runtime**: Node.js  
@@ -74,17 +74,17 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 - **ORMs/ODMs**: Prisma, Mongoose  
 - **APIs**: REST, GraphQL  
 - **Authentication**: JWT, Firebase Auth
-- **Cloud**: AWS, Vercel
+- **Cloud**:  Vercel
 
 ### **Testing & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,git,github,docker,postman,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=jest,git,github,postman,vscode,figma" alt="Tools" />
 </p>
 
 - **Testing**: Jest, React Testing Library
 - **Version Control**: Git, GitHub
 - **API Tools**: Postman, GraphQL Playground
-- **CI/CD**: GitHub Actions, Docker
+- **CI/CD**: GitHub Actions, 
 
 
 ---
