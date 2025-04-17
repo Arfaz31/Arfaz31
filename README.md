@@ -11,7 +11,7 @@ Technical Proficiencies <br/>
 ▪️State Management: Redux, TanStack Query <br/>
 ▪️Databases: MongoDB, PostgreSQL <br/>
 ▪️ORM/ODM: Mongoose, Prisma <br/>
-▪️UI/UX Tools: TailwindCSS, Shadcn UI, Ant Design, Framer Motion <br/>
+▪️UI/UX Tools: TailwindCSS, Shadcn UI, Ant Design, Material Ui Framer Motion <br/>
 ▪️Cloud & Payment Solutions: Firebase, Aamarpay, SSLCommerz <br/>
 ▪️Development Tools: Git, GitHub, Vercel, Postman, Chrome DevTools <br/>
 
@@ -58,7 +58,7 @@ I pride myself on my persistence and growth mindset, which drive me to tackle ch
 
 - **Frameworks/Libraries**: React, Next.js  
 - **State Management**: Redux, Context API  
-- **Styling**: Tailwind CSS, Shadcn  
+- **Styling**: Tailwind CSS, Shadcn, Material UI  
 - **Markup**: HTML5, CSS3  
 - **Animation**: Framer Motion  
 - **API Clients**: Axios, Tanstack Query  
